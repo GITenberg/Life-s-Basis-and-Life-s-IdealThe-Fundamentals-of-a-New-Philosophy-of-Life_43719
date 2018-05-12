@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42188
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43719#Life-s-Basis-and-Life-s-IdealThe-Fundamentals-of-a-New-Philosophy-of-Life
 gutenberg_issued: '2013-09-14'
 gutenberg_type: Text
 identifiers:
