@@ -1,0 +1,41 @@
+_repo: Life-s-Basis-and-Life-s-IdealThe-Fundamentals-of-a-New-Philosophy-of-Life_43719
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Widgery, Alban G. (Alban Gregory)
+    alias: Widgery, Alban Gregory
+    birthdate: 1887
+    deathdate: 1968
+    gutenberg_agent_id: '42375'
+    url: http://www.gutenberg.org/2009/agents/42375
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eucken, Rudolf
+    aliases:
+    - Eucken, Rudolph
+    - Eucken, Rudolf Christof
+    - Eucken, R.‏ (Rudolf)
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '42188'
+    url: http://www.gutenberg.org/2009/agents/42188
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
+description: ''
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43719'
+  lccn: '12035532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life'
+- !lcsh 'Ontology'
+- !lcc 'BD'
+title: 'Life''s Basis and Life''s Ideal: The Fundamentals of a New Philosophy of Life'
+url: http://www.gutenberg.org/ebooks/43719
